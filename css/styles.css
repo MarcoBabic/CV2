@@ -15,19 +15,18 @@ hr {
   margin-bottom: 75px;
 }
 
-
-a{
+a {
   color: darkgray;
   font-family: 'Kreon', serif;
   margin: 10px 20px;
   text-decoration: none;
 }
 
-a:hover{
+a:hover {
   color: #EAF6F6;
 }
 
-p{
+p {
   line-height: 2
 }
 
@@ -53,61 +52,54 @@ h3 {
   font-weight: normal;
 }
 
-
-
-
-.copyright{
+.copyright {
   color: #EAF6F6;
   font-size: 0.75rem;
   padding: 20px 0;
 }
 
 .profile-pic {
-border-radius: 50%;
+  border-radius: 50%;
 }
 
-.skills-pic{
+.skills-pic {
   border-radius: 50%;
   width: 25%;
   margin-right: 30px;
   float: left;
-
 }
 
-.scpf-pic{
-   border-radius: 50%;
-   width: 30%;
-   float: right;
+.scpf-pic {
+  border-radius: 50%;
+  width: 30%;
+  float: right;
 }
 
 .hello-des {
   text-align: center;
   width: 35%;
-margin: auto;
+  margin: auto;
 }
 
-.project1{
+.project1 {
   text-align: left;
   color: LightSteelBlue
 }
 
-.pro-experience{
+.pro-experience {
   text-align: left;
-
 }
 
-.sailing{
+.sailing {
   text-align: left;
   color: LightSteelBlue
 }
+
 .sailing-experience {
   text-align: left;
 }
 
 
-.Editor {
-  text-decoration: underline;
-}
 
 .top-container {
   background-color: LightSteelBlue;
@@ -118,20 +110,17 @@ margin: auto;
 .middle-container {
   background-color: slategrey;
   position: relative;
-
 }
 
 .bottom-container {
   background-color: dodgerblue;
   padding: 50px 0 20px;
-
 }
 
-.skill-row{
+.skill-row {
   width: 50%;
   margin: 100px auto 100px auto;
   text-align: center;
-
 }
 
 .top-cloud {
